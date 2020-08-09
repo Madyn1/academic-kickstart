@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Nos activités
 
 # View.
 #   1 = List
