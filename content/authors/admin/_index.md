@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+# title: Nelson Bighetti
 
 # Username (this should match the folder name)
-authors:
-- admin
+# authors:
+# - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+# organizations:
+# - name: Stanford University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Artificial Intelligence
