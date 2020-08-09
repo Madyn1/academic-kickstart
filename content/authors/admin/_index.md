@@ -70,10 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nous sommes une communauté de jeunes femmes d'Afrique Francophone engagées pour la production, l'utilisation et la réutilisation des données ouvertes relatives au genre. Suite à l’expérience acquise en Open Data dans le cadre du projet “Open Data Médias 2” de l’Agence Française de Coopération Médias, nous avons constaté qu'en Afrique Francophone en particulier, les femmes sont très peu nombreuses dans l'univers des données ouvertes et les données relatives au genre sont peu disponibles. Quand bien même ces données sont disponibles, les femmes sont peu outillées pour les réutiliser.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-# La Vision du réseau
-La communauté Open Data Pour Elles met l’accent sur la recherche avancée de données en ligne, l’analyse de données ouvertes grâce aux outils numériques, le développement d’initiatives communautaires et transfrontalières de réutilisation des données ouvertes. 
-Notre communauté est née au Sénégal en Décembre 2018, pour bâtir une masse critique de jeunes femmes Africaines engagées sur les problématiques de Données Ouvertes afin de mieux impacter la vie des communautés en Afrique.
-
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
