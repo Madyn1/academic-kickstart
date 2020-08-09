@@ -5,7 +5,7 @@
 
 [[main]]
   name = "A propos"
-  url = "#Qui sommes-nous?"
+  url = "#about"
   weight = 10
 
 [[main]]
