@@ -113,7 +113,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Follow us", link = "https://twitter.com/Fem_Data"},
-  {icon = "skype", icon_pack = "fab", name = "", link = ""},
+  # {icon = "skype", icon_pack = "fab", name = "", link = ""},
   # {icon = "keybase", icon_pack = "fab", name = "", link = ""},
   # {icon = "comments", icon_pack = "fas", name = "", link = ""},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -153,7 +153,7 @@ main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_l
 reading_time = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
